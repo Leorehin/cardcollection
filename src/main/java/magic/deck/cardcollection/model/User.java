@@ -14,7 +14,7 @@ public class User {
     private String login;
     private String password;
 
-    @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    @OneToMany
     private List<Card> cardsList;
 
 
@@ -50,4 +50,11 @@ public class User {
         this.id = id;
     }
 
+    public List<Card> getCardsList() {
+        return cardsList;
+    }
+
+    public void setCardsList(List<Card> cardsList) {
+        this.cardsList = cardsList;
+    }
 }
