@@ -25,3 +25,6 @@ classDiagram
     User "1"-->"n" Card
 
 ```
+## Videos Uteis:
+- como pedir acesso a camera com javascript em pagina html: https://www.youtube.com/watch?v=CBWkMNo6px8
+- autenticacao com roles no spring security: https://www.youtube.com/watch?v=5w-YCcOjPD0
