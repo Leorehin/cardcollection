@@ -28,3 +28,5 @@ classDiagram
 ## Videos Uteis:
 - como pedir acesso a camera com javascript em pagina html: https://www.youtube.com/watch?v=CBWkMNo6px8
 - autenticacao com roles no spring security: https://www.youtube.com/watch?v=5w-YCcOjPD0
+- upload and download an image with spring(indian): https://www.youtube.com/watch?v=7L1BSy5pnGo
+- upload an image with spring (american): https://www.youtube.com/watch?v=yrT2WI7UpMo
